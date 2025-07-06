@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Trem Desgovernado",
+    "descricao": "Você pode puxar uma alavanca e desviar um trem, salvando cinco pessoas, mas isso causaria a morte de uma pessoa no outro trilho.",
+    "opcoes": [
+      {"texto": "Puxar a alavanca e salvar cinco vidas.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Não interferir, não é seu dever decidir quem vive ou morre.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Mentira por Compaixão",
+    "descricao": "Um amigo terminal pergunta se vai sobreviver. Você sabe que ele não vai.",
+    "opcoes": [
+      {"texto": "Dizer que ele vai melhorar, para dar esperança.", "pontuacao": {"Relacional": 2}},
+      {"texto": "Dizer a verdade, mesmo que doa.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Roubo Necessário",
+    "descricao": "Uma pessoa rouba remédios para salvar o filho. Você é o único que viu.",
+    "opcoes": [
+      {"texto": "Denunciar o roubo. A lei é a lei.", "pontuacao": {"Deontologico": 2}},
+      {"texto": "Ficar em silêncio. A vida do filho importa mais.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Falar com a farmácia e tentar intermediar ajuda.", "pontuacao": {"Relacional": 2}}
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Privacidade vs. Segurança",
+    "descricao": "O governo quer monitorar conversas para prevenir crimes. Você concorda?",
+    "opcoes": [
+      {"texto": "Sim, se evitar mortes, vale a pena.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Não, a privacidade é um direito fundamental.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Emprego por Indicação",
+    "descricao": "Você pode indicar um amigo menos capacitado para uma vaga ou um desconhecido mais qualificado.",
+    "opcoes": [
+      {"texto": "Indicar o amigo. Lealdade importa.", "pontuacao": {"Relacional": 2}},
+      {"texto": "Indicar o mais qualificado. Justiça acima de tudo.", "pontuacao": {"Utilitarista": 2}}
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Segredo Perigoso",
+    "descricao": "Um colega confessa ter causado um acidente grave e pede seu silêncio.",
+    "opcoes": [
+      {"texto": "Guardar o segredo. Ele está arrependido e vai se entregar.", "pontuacao": {"Relacional": 2}},
+      {"texto": "Denunciar. Justiça precisa ser feita.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Robô Cuidador",
+    "descricao": "Um hospital quer substituir cuidadores humanos por robôs mais eficientes.",
+    "opcoes": [
+      {"texto": "Apoiar a decisão. Mais pessoas serão atendidas.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Manter os humanos. O contato emocional é insubstituível.", "pontuacao": {"Relacional": 2}}
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Censura Preventiva",
+    "descricao": "Um livro pode incitar ódio. Você acredita que ele deve ser censurado?",
+    "opcoes": [
+      {"texto": "Sim, para evitar danos maiores.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Não, a liberdade de expressão é sagrada.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "Filtrar um Amigo",
+    "descricao": "Seu melhor amigo faz um comentário preconceituoso nas redes. Você expõe ou protege?",
+    "opcoes": [
+      {"texto": "Confronta-o em particular, buscando entendimento.", "pontuacao": {"Relacional": 2}},
+      {"texto": "Expõe publicamente. O erro não pode ser ignorado.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Sofrimento Animal vs Ciência",
+    "descricao": "Testes em animais podem curar doenças humanas. O que você pensa?",
+    "opcoes": [
+      {"texto": "Apoiar, se os benefícios forem enormes.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Não apoiar. A vida animal também merece respeito.", "pontuacao": {"Deontologico": 2}}
+    ]
+  }
+]
