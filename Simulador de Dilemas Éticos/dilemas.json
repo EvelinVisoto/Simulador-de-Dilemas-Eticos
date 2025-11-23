@@ -89,5 +89,96 @@
       {"texto": "Apoiar, se os benefícios forem enormes.", "pontuacao": {"Utilitarista": 2}},
       {"texto": "Não apoiar. A vida animal também merece respeito.", "pontuacao": {"Deontologico": 2}}
     ]
+  },
+  {
+    "id": 11,
+    "titulo": "Vacina Experimental",
+    "descricao": "Uma nova vacina pode salvar milhares de vidas, mas ainda não foi totalmente testada.",
+    "opcoes": [
+      {"texto": "Apoiar o uso emergencial para salvar mais pessoas.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Recusar. Não é ético usar algo sem testes completos.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 12,
+    "titulo": "Herança Injusta",
+    "descricao": "Um parente deixou toda a herança para você por engano, ignorando outros familiares que precisam mais.",
+    "opcoes": [
+      {"texto": "Ficar com a herança, afinal é o documento legal.", "pontuacao": {"Deontologico": 2}},
+      {"texto": "Dividir com os familiares mais necessitados.", "pontuacao": {"Relacional": 2}},
+      {"texto": "Doar a maior parte para ajudar mais pessoas.", "pontuacao": {"Utilitarista": 2}}
+    ]
+  },
+  {
+    "id": 13,
+    "titulo": "Trabalho Comprometido",
+    "descricao": "Você faz parte de um grupo e um colega prejudica o trabalho final.",
+    "opcoes": [
+      {"texto": "Assumir sua parte e não entregar os erros dele.", "pontuacao": {"Relacional": 2}},
+      {"texto": "Informar ao professor exatamente quem errou.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 14,
+    "titulo": "Tecnologia Invasiva",
+    "descricao": "Um aplicativo pode prever crimes com alta precisão, mas exige monitorar tudo sobre todos.",
+    "opcoes": [
+      {"texto": "Apoiar o uso. Isso reduz drasticamente a criminalidade.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Rejeitar. Liberdade e privacidade não podem ser violadas.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 15,
+    "titulo": "Adoção Complicada",
+    "descricao": "Você conhece uma família que quer adotar, mas não tem condições perfeitas.",
+    "opcoes": [
+      {"texto": "Apoiar a adoção. A criança terá um lar amoroso.", "pontuacao": {"Relacional": 2}},
+      {"texto": "Impedir a adoção. Regras existem por um motivo.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 16,
+    "titulo": "Trabalho Arriscado",
+    "descricao": "Um voluntário quer entrar em uma área perigosíssima para salvar alguém.",
+    "opcoes": [
+      {"texto": "Permitir a entrada. Uma vida pode ser salva.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Impedir. Não é certo arriscar mais uma vida.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 17,
+    "titulo": "Segredo Familiar",
+    "descricao": "Você descobre que um parente escondeu algo grave que afeta toda a família.",
+    "opcoes": [
+      {"texto": "Contar a verdade para todos. Transparência é essencial.", "pontuacao": {"Deontologico": 2}},
+      {"texto": "Conversar apenas com o parente e tentar resolver internamente.", "pontuacao": {"Relacional": 2}}
+    ]
+  },
+  {
+    "id": 18,
+    "titulo": "Aluno com Dificuldades",
+    "descricao": "Um aluno vai reprovar, mas você pode flexibilizar as regras para ajudá-lo a passar.",
+    "opcoes": [
+      {"texto": "Flexibilizar. Uma reprovação pode mudar o futuro dele.", "pontuacao": {"Relacional": 2}},
+      {"texto": "Manter as regras. Ser justo é mais importante.", "pontuacao": {"Deontologico": 2}}
+    ]
+  },
+  {
+    "id": 19,
+    "titulo": "Ambiente vs. Economia",
+    "descricao": "Fechar uma fábrica poluente melhoraria o meio ambiente, mas deixaria milhares sem emprego.",
+    "opcoes": [
+      {"texto": "Fechar a fábrica pelo bem do planeta.", "pontuacao": {"Utilitarista": 2}},
+      {"texto": "Manter a fábrica. Muitas famílias dependem dela.", "pontuacao": {"Relacional": 2}}
+    ]
+  },
+  {
+    "id": 20,
+    "titulo": "Doação Anônima",
+    "descricao": "Você pode doar uma grande quantia anonimamente ou doar publicamente e motivar outras pessoas.",
+    "opcoes": [
+      {"texto": "Doar anonimamente. Humildade e privacidade são valores importantes.", "pontuacao": {"Deontologico": 2}},
+      {"texto": "Doar publicamente para inspirar mais pessoas a ajudar.", "pontuacao": {"Utilitarista": 2}}
+    ]
   }
 ]
